@@ -23,4 +23,5 @@ def name_changer(folder):
 
 
 
-
+folder = "C:\\Users\\am4613\\OneDrive\\FISH\\Outline2\\"
+name_changer(folder)
